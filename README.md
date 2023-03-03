@@ -7,3 +7,21 @@ The UK Food Standards Agency evaluates various establishments across the United 
 
 ## Part 1: Database and Jupyter Notebook Set Up
 
+Work available under https://github.com/lcardsvr/nosql-challenge/blob/main/NoSQL_setup_starter.ipynb
+
+
+## Part 2: Update the Database
+
+Work available under https://github.com/lcardsvr/nosql-challenge/blob/main/NoSQL_setup_starter.ipynb
+
+
+## Part 3: Exploratory Analysis
+
+Work available under https://github.com/lcardsvr/nosql-challenge/blob/main/NoSQL_analysis_starter.ipynb
+
+
+## Submission
+
+1. Submitted and available in GitHub underhttps://github.com/lcardsvr/nosql-challenge
+
+2. Jupyter Notebooks used as mentioned in Parts 1, 2 and 3.
