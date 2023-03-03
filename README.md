@@ -22,6 +22,6 @@ Work available under https://github.com/lcardsvr/nosql-challenge/blob/main/NoSQL
 
 ## Submission
 
-1. Submitted and available in GitHub underhttps://github.com/lcardsvr/nosql-challenge
+1. Submitted and available in GitHub under https://github.com/lcardsvr/nosql-challenge
 
 2. Jupyter Notebooks used as mentioned in Parts 1, 2 and 3.
